@@ -19,7 +19,7 @@
 ![PL/SQL - Beginner](https://img.shields.io/badge/PL%2FSQL-Beginner-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=black&label=)
 ![C# - Intermediate](https://img.shields.io/badge/C%23-Intermediate-239120?style=flat-square&logo=c-sharp&logoColor=white&labelColor=black&label=)
 ![C++ - Intermediate](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=black&label=)
-![C - Advanced](https://img.shields.io/badge/C-Advanced-A8B9CC?style=flat-square&logo=c&logoColor=white&labelColor=black&label=)
 ![EViews - Beginner](https://img.shields.io/badge/EViews-Beginner-0056A0?style=flat-square&logoColor=white&labelColor=black&label=)
 ![R - Intermediate](https://img.shields.io/badge/R-Intermediate-276DC3?style=flat-square&logo=r&logoColor=white&labelColor=black&label=)
+
 
