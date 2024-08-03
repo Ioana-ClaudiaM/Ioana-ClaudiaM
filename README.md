@@ -24,12 +24,11 @@
 
 ## 📂 Proiectele mele
 
-| Proiect       | Descriere                                     | Link                                     |
-|---------------|------------------------------------------------|------------------------------------------|
-| **Proiect 1** | O scurtă descriere a proiectului 1            | [Link](https://github.com/yourusername/project1) |
-| **Proiect 2** | O scurtă descriere a proiectului 2            | [Link](https://github.com/yourusername/project2) |
-| **Proiect 3** | O scurtă descriere a proiectului 3            | [Link](https://github.com/yourusername/project3) |
-
+| Proiect       | Descriere                                     | Demo / Captură de ecran                                     | Link                                     |
+|---------------|------------------------------------------------|-------------------------------------------------------------|------------------------------------------|
+| **Proiect 1** | O scurtă descriere a proiectului 1            | ![Screenshot 1](https://example.com/screenshot1.png)       | [Link](https://github.com/yourusername/project1) |
+| **Proiect 2** | O scurtă descriere a proiectului 2            | ![Screenshot 2](https://example.com/screenshot2.png)       | [Link](https://github.com/yourusername/project2) |
+| **Proiect 3** | O scurtă descriere a proiectului 3            | ![Screenshot 3](https://example.com/screenshot3.png)       | [Link](https://github.com/yourusername/project3) |
 
 ## 📊 Statistici GitHub
 
