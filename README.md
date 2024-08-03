@@ -1,4 +1,4 @@
-![Descriere imagine](https://cdni.iconscout.com/illustration/premium/thumb/software-development-3669332-3073742.png)
+![Descriere imagine](https://png.pngtree.com/png-vector/20220719/ourmid/pngtree-software-developer-semi-flat-color-vector-character-png-image_6020581.png)
 
 ## Bună, eu sunt Claudia! 👋
 
