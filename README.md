@@ -29,5 +29,7 @@
 
 ## 📫 Cum mă poți contacta
 
-- [LinkedIn][(https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/ioana-claudia-mierlita-988a12268/))
-- [Gmail][mierlitaclaudia029@gmail.com](mierlitaclaudia029@gmail.com)
+## 📫 Cum mă poți contacta
+
+- [LinkedIn](https://www.linkedin.com/in/ioana-claudia-mierlita-988a12268/)
+- [Gmail]: [mierlitaclaudia029@gmail.com](mailto:mierlitaclaudia029@gmail.com)
