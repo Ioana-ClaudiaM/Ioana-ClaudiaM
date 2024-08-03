@@ -1,4 +1,4 @@
-![Descriere imagine](https://png.pngtree.com/png-vector/20220719/ourmid/pngtree-software-developer-semi-flat-color-vector-character-png-image_6020581.png)
+![Descriere imagine]([https://png.pngtree.com/png-vector/20220719/ourmid/pngtree-software-developer-semi-flat-color-vector-character-png-image_6020581.png](https://miro.medium.com/v2/resize:fit:1400/0*PXf5ge7QCN9Ga_CL.gif))
 
 ## Hello, I'm Claudia! 👋
 
