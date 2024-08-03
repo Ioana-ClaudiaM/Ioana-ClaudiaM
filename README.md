@@ -1,4 +1,5 @@
-![Profil](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixlr.com%2Fro%2Fimage-generator%2F&psig=AOvVaw3CYmewboXltUHIfOd7Vqs8&ust=1722792920376000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCNivOt2YcDFQAAAAAdAAAAABAE)
+![Descriere imagine](https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg)
+
 ## Bună, eu sunt Claudia! 👋
 
 ## 🌍 Despre mine
