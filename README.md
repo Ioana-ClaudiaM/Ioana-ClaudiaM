@@ -1,5 +1,8 @@
-## Hi there 👋
+![Profil]([https://path/to/your/profile/image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixlr.com%2Fro%2Fimage-generator%2F&psig=AOvVaw3CYmewboXltUHIfOd7Vqs8&ust=1722792920376000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCNivOt2YcDFQAAAAAdAAAAABAE))
 
+## Bună, eu sunt Claudia! 👋
+
+## 🌍 Despre mine
 <!--
 **Ioana-ClaudiaM/Ioana-ClaudiaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
