@@ -27,9 +27,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide=html,css)
 
-## 📫 Cum mă poți contacta
 
 ## 📫 Cum mă poți contacta
 
 - [LinkedIn](https://www.linkedin.com/in/ioana-claudia-mierlita-988a12268/)
-- [Gmail]: [mierlitaclaudia029@gmail.com](mailto:mierlitaclaudia029@gmail.com)
+- [Gmail]: (mailto:mierlitaclaudia029@gmail.com)
