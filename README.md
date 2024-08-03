@@ -22,6 +22,15 @@
 ![EViews](https://img.shields.io/badge/EViews-0056A0?style=flat-square&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
+## 📂 Proiectele mele
+
+| Proiect       | Descriere                                     | Link                                     |
+|---------------|------------------------------------------------|------------------------------------------|
+| **Proiect 1** | O scurtă descriere a proiectului 1            | [Link](https://github.com/yourusername/project1) |
+| **Proiect 2** | O scurtă descriere a proiectului 2            | [Link](https://github.com/yourusername/project2) |
+| **Proiect 3** | O scurtă descriere a proiectului 3            | [Link](https://github.com/yourusername/project3) |
+
+
 ## 📊 Statistici GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
