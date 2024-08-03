@@ -1,3 +1,4 @@
+![Descriere imagine](https://scontent.fotp1-2.fna.fbcdn.net/v/t39.30808-1/403734724_6826437774119519_3318386533647345146_n.jpg?stp=dst-jpg_p200x200&_nc_cat=103&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=vTpYBbolqvIQ7kNvgHm-eko&_nc_ht=scontent.fotp1-2.fna&oh=00_AYArQMJ1taigiQE5M45f1yUhWdi6qH_Lkd6AQvdKzvd-nQ&oe=66B453E9URL_imagine)
 
 ## Bună, eu sunt Claudia! 👋
 
