@@ -32,4 +32,4 @@
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/ioana-claudia-mierlita-988a12268/)
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) [Gmail](mailto:mierlitaclaudia029@gmail.com)
 - ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white) [Facebook](https://www.facebook.com/claudia.mierlita)
-- ![Instagram](https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png) [Instagram](https://www.instagram.com/claudiamierlita/)
+- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white) [Instagram](https://www.instagram.com/claudiamierlita/)
