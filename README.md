@@ -7,7 +7,7 @@
   
 ## 🛠️ Technologies and Abilities
 
-![Python - Advanced](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python - Advanced](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=3776AB)
 ![Java - Intermediate](https://img.shields.io/badge/Java-Intermediate-F7DF1E?style=flat-square&logo=java&logoColor=white)
 ![Android - Beginner](https://img.shields.io/badge/Android-Beginner-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![JavaScript - Advanced](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
