@@ -32,8 +32,8 @@
 
 ## 📊 Statistici GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide=html,css)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ioana-ClaudiaM&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ioana-ClaudiaM&layout=compact&hide=html,css)
 
 ## 📫 Cum mă poți contacta
 
