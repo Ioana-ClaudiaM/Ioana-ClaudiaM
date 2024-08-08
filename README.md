@@ -27,7 +27,7 @@
 | Proiect       | Descriere                                     | Demo / Captură de ecran                                     | Link                                     |
 |---------------|------------------------------------------------|-------------------------------------------------------------|------------------------------------------|
 | Film Resources Finder| Film Resources Finder is an application designed to help film producers find the resources needed for the development of their films, as well as actors, by giving them the opportunity to find a role in a film.           | ![Demo](https://github.com/Ioana-ClaudiaM/film-resources-finder/blob/master/Demo.png?raw=true)       |  [Link](https://github.com/Ioana-ClaudiaM/film-resources-finder.git)  |
-| **Proiect 2** | O scurtă descriere a proiectului 2            | ![Screenshot 2](https://github.com/Ioana-ClaudiaM/data-visualization/blob/d465adfe219afa196edd185c856f94d013715181/demo.png?raw=true)       | [Link](https://github.com/Ioana-ClaudiaM/data-visualization.git) |
+| Data Visualization | This web app visualizes and analyzes economic indicators like GDP, population, and life expectancy for various countries and years. Users can generate bar, pie, and line charts, as well as bubble charts. An interactive table highlights performance with color-coded cells based on indicator values relative to the average.           | ![Screenshot 2](https://github.com/Ioana-ClaudiaM/data-visualization/blob/d465adfe219afa196edd185c856f94d013715181/demo.png?raw=true)       | [Link](https://github.com/Ioana-ClaudiaM/data-visualization.git) |
 
 ## 📊 Statistici GitHub
 
