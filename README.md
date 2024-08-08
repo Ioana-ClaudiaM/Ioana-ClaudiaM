@@ -27,7 +27,7 @@
 | Proiect       | Descriere                                     | Demo / Captură de ecran                                     | Link                                     |
 |---------------|------------------------------------------------|-------------------------------------------------------------|------------------------------------------|
 | Film Resources Finder| Film Resources Finder is an application designed to help film producers find the resources needed for the development of their films, as well as actors, by giving them the opportunity to find a role in a film.           | ![Demo](https://github.com/Ioana-ClaudiaM/film-resources-finder/blob/master/Demo.png?raw=true)       |  [Link](https://github.com/Ioana-ClaudiaM/film-resources-finder.git)  |
-| **Proiect 2** | O scurtă descriere a proiectului 2            | ![Screenshot 2](https://example.com/screenshot2.png)       | [Link](https://github.com/yourusername/project2) |
+| **Proiect 2** | O scurtă descriere a proiectului 2            | ![Screenshot 2](demo.png)       | [Link](https://github.com/yourusername/project2) |
 | **Proiect 3** | O scurtă descriere a proiectului 3            | ![Screenshot 3](https://example.com/screenshot3.png)       | [Link](https://github.com/yourusername/project3) |
 
 ## 📊 Statistici GitHub
